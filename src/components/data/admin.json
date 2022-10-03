@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "username": "admin.dashboard",
+        "name": "Ümit",
+        "surname": "Tükenmez",
+        "email": "umit.tukenmez@hotmail.com",
+        "password": "deneme1234"
+    }
+]

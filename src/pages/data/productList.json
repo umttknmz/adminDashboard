@@ -1,0 +1,72 @@
+[
+    {
+        "name": "iPhone 12",
+        "stock": 14,
+        "status": "Satılabilir",
+        "price": 1200.0000,
+        "sold":2
+    },
+    {
+        "name": "iPhone 13",
+        "stock": 32,
+        "status": "Bekliyor",
+        "price": 1300.0000,
+        "sold":4
+    },
+    {
+        "name": "iPhone 14",
+        "stock": 55,
+        "status": "Satılabilir",
+        "price": 1400.0000,
+        "sold":8
+    },
+    {
+        "name": "iPhone 11",
+        "stock": 20,
+        "status": "Satılamaz",
+        "price": 1100.0000,
+        "sold":5
+    },
+    {
+        "name": "Apple Watch SE",
+        "stock": 5,
+        "status": "Satılabilir",
+        "price": 650.0000,
+        "sold":3
+    },
+    {
+        "name": "Apple Watch Ultra",
+        "stock": 10,
+        "status": "Bekliyor",
+        "price": 800.0000,
+        "sold":1
+    },
+    {
+        "name": "iPhone 14 Pro",
+        "stock": 12,
+        "status": "Bekliyor",
+        "price": 1600.0000,
+        "sold":2
+    },
+    {
+        "name": "iPhone 7",
+        "stock": 3,
+        "status": "Satılamaz",
+        "price": 500.0000,
+        "sold":1
+    },
+    {
+        "name": "iPhone 8 Plus",
+        "stock": 8,
+        "status": "Satılamaz",
+        "price": 600.0000,
+        "sold":1
+    },
+    {
+        "name": "iPhone 11 Pro Max",
+        "stock": 11,
+        "status": "Satılamaz",
+        "price": 850.0000,
+        "sold":7
+    }
+]

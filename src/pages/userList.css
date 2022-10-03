@@ -1,0 +1,47 @@
+.userList {
+    flex: 5 !important;
+}
+
+.boxTableGrid {
+    flex: 1;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 1);
+    -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 1);
+}
+
+.userWidget {
+    margin: 14px;
+    padding: 5px;
+}
+
+.usersTitle {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.btnEditGrid {
+    cursor: pointer;
+    border: none;
+    font-size: 18px;
+    background-color: #ebf1fe;
+    color: #2a7ade;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.btnEditGrid:hover {
+    background-color: #e5faf2;
+    color: #3bb077;
+    transition: all 1s;
+}
+
+.linkMenu{
+    text-decoration: none;
+    color: inherit;
+}

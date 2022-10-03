@@ -1,0 +1,17 @@
+.reports {
+    flex: 5;
+    flex-wrap: wrap!important;
+}
+
+.reportsWidgets {
+    display: flex;
+    margin: 20px;
+}
+.reportsInfo{
+    display: grid;
+    width: 100%!important;
+}
+.graphics{
+    width: 100%;
+    min-height: fit-content;
+}

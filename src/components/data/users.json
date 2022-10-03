@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "fullName": "Ümit Tükenmez",
+        "Job": "Front-End Developer",
+        "Date": "22.10.1996",
+        "birthPlace": "Türkiye"
+    },
+    {
+        "id": 2,
+        "fullName": "Austin Axel",
+        "Job": "Back-End Developer",
+        "Date": "10.05.1989",
+        "birthPlace": "ABD"
+    },
+    {
+        "id": 3,
+        "fullName": "Ahmet Akman",
+        "Job": "Full-Stack Developer",
+        "Date": "02.08.1999",
+        "birthPlace": "Türkiye"
+    }
+]

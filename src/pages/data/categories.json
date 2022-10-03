@@ -1,0 +1,22 @@
+[
+    {
+        "JobID": 1,
+        "JobName": "Front-End Developer"
+    },
+    {
+        "JobID": 2,
+        "JobName": "Back-End Developer"
+    },
+    {
+        "JobID": 3,
+        "JobName": "Senior Developer"
+    },
+    {
+        "JobID": 4,
+        "JobName": "Computer Engineer"
+    },
+    {
+        "JobID": 5,
+        "JobName": "Full Stack Developer"
+    }
+]

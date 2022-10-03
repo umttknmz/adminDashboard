@@ -1,0 +1,10 @@
+.totalproduct {
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+    margin-right: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 1);
+    -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 1);
+}

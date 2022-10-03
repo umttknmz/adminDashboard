@@ -1,0 +1,70 @@
+[
+    {
+        "FrontEndDeveloper": [
+            {
+                "id": 1,
+                "fullName": "Ümit Tükenmez",
+                "Job": "Front-End Developer",
+                "Date": "22.10.1996",
+                "birthPlace": "Türkiye"
+            },
+            {
+                "id": 2,
+                "fullName": "Adam Adrian",
+                "Job": "Front-End Developer",
+                "Date": "15.05.1981",
+                "birthPlace": "ABD"
+            },
+            {
+                "id": 3,
+                "fullName": "Adam Adrian",
+                "Job": "Front-End Developer",
+                "Date": "15.05.1981",
+                "birthPlace": "ABD"
+            }
+        ],
+        "SeniorDeveloper": [
+            {
+                "id": 1,
+                "fullName": "Barnaby Benedict",
+                "Job": "Senior Developer",
+                "Date": "26.07.1993",
+                "birthPlace": "İngiltere"
+            },
+            {
+                "id": 2,
+                "fullName": "Gökçe Iraz",
+                "Job": "Senior Developer",
+                "Date": "06.08.1985",
+                "birthPlace": "Türkiye"
+            }
+        ],
+        "BackEndDeveloper": [
+            {
+                "id": 1,
+                "fullName": "Clifford Conroy",
+                "Job": "Back-End Developer",
+                "Date": "18.12.1991",
+                "birthPlace": "Almanya"
+            }
+        ],
+        "ComputerEngineer": [
+            {
+                "id": 1,
+                "fullName": "Olcay Kınay",
+                "Job": "Bilgisayar Mühendisi",
+                "Date": "03.05.1997",
+                "birthPlace": "Türkiye"
+            }
+        ],
+        "FullStackDeveloper": [
+            {
+                "id": 1,
+                "fullName": "Pelin Talpın",
+                "Job": "Full Stack Developer",
+                "Date": "15.02.1989",
+                "birthPlace": "Türkiye"
+            }
+        ]
+    }
+]

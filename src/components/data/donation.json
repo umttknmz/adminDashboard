@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "FullName": "Ümit Tükenmez",
+        "Date": "2 Haz 2022",
+        "Donate": 100,
+        "Status": "Onaylandi",
+        "Gender": "Erkek"
+    },
+    {
+        "id": 2,
+        "FullName": "Ali Yılmaz",
+        "Date": "2 May 2022",
+        "Donate": 380,
+        "Status": "RedEdildi",
+        "Gender": "Erkek"
+    },
+    {
+        "id": 3,
+        "FullName": "Ahmet Akman",
+        "Date": "2 Mart 2022",
+        "Donate": 56,
+        "Status": "Bekliyor",
+        "Gender": "Erkek"
+    },
+    {
+        "id": 4,
+        "FullName": "Suzan Katı",
+        "Date": "2 Oca 2022",
+        "Donate": 500,
+        "Status": "RedEdildi",
+        "Gender": "Kadın"
+    }
+   
+]
